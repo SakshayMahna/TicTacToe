@@ -1,0 +1,8 @@
+prefix=/media/sakshay/BuntuDrive/tictactoe/install
+
+Name: turn_msg
+Description: Description of turn_msg
+Version: 0.0.0
+Cflags: -I/media/sakshay/BuntuDrive/tictactoe/install/include
+Libs: -L/media/sakshay/BuntuDrive/tictactoe/install/lib 
+Requires: 

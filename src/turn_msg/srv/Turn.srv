@@ -1,0 +1,7 @@
+string player
+uint32 x
+uint32 y
+---
+string[] r1
+string[] r2
+string[] r3
